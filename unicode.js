@@ -71,8 +71,8 @@ Use charCodeAt to extract the Unicode code points of the first and third charact
 Assign the results to variables named firstCodePoint and thirdCodePoint.
 
 Task 2: Create a Word from Code Points
-Use the Unicode code points 72, 101, 108, and 108 (corresponding to the characters H, e, l, and l).
-Use String.fromCharCode to create the word "Hell".
+Use the Unicode code points 74, 97, 118, 97, 83, 99, 114, 105, 112, and 116.
+Use String.fromCharCode to create the word "JavaScript".
 Assign the result to a variable named wordFromCodePoints.
 
 Task 3: Swap First and Last Characters
